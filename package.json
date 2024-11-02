@@ -1,6 +1,6 @@
 {
   "name": "queen_anya_ver.2",
-  "version": "2.1.2.1",
+  "version": "2.1.2.2",
   "description": "Anya_v2-MD is an efficient and versatile WhatsApp bot designed to streamline your messaging experience with innovative features and seamless automation.",
   "main": "index.js",
   "type": "commonjs",
@@ -12,7 +12,7 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "2024",
+    "2025",
     "base",
     "baileys-md",
     "bot",
@@ -50,6 +50,7 @@
     "form-data": "^4.0.0",
     "fs": "0.0.1-security",
     "got": "^11.8.5",
+    "gemini-ai": "latest",
     "human-readable": "^0.2.1",
     "jimp": "^0.22.12",
     "jsdom": "^16.4.0",
@@ -67,6 +68,7 @@
     "request": "^2.88.2",
     "util": "^0.12.5",
     "url": "^0.11.4",
-    "stream": "^0.0.3"
+    "stream": "^0.0.3",
+    "translate-google": "latest"
   }
 }
